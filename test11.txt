@@ -1,0 +1,10 @@
+ Volume in drive E is New Volume
+ Volume Serial Number is 5CE0-2449
+
+ Directory of E:\GITPRactive\MyProject04032021
+
+04-03-2021  18:21    <DIR>          .
+04-03-2021  18:21    <DIR>          ..
+04-03-2021  18:21                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  321,827,213,312 bytes free
